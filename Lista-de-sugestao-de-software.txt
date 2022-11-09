@@ -1,0 +1,8 @@
+Lista de sugestões de software
+
+1) Sistema Web para localizar Linhas e horários de ônibus em Luziânia;
+2) Sistema Web para cadastro e localização de pontos de coleta de lixo eletrônico em Luziânia;
+3) Sistema Web para oferta e troca de livros usados;
+4) Sistema Web para oferta e localização de carona solidária.
+
+
