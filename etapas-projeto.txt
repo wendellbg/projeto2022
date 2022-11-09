@@ -1,0 +1,18 @@
+Modelo de Desenvolvimento de Software para o Projeto 2022
+
+Software - Sistema Web para oferta e troca de livros usados;
+
+ETAPA 0 - (Identificação e definição das tecnologias que serão usadas)
+
+  Frontend:
+    - HTML
+    - CSS
+    - JavaScript
+    - Testes Unitarios - Opcional/A definir
+    - Bootstrap
+
+  Backend:
+  - PHP
+  - Framework PHP - Opcional/A definir
+  - Testes Unitarios - Opcional/A definir 
+  - PostgreSQL
