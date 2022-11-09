@@ -20,4 +20,13 @@ ETAPA 0 - (Identificação e definição das tecnologias que serão usadas)
 
 ETAPA 1 - (Listar os objetivos)
 
-  - Cadastro e Login do usuário
+  - Usuário
+    - Informações para Cadastro de usuário:
+      - Nome
+      - Email
+      - CPF
+      - Telefone
+    - Login
+      - Email
+      - Password
+    - Anuncio do livro  
