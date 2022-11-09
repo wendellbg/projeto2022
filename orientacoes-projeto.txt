@@ -1,0 +1,28 @@
+Modelo de Desenvolvimento de Software para o Projeto 2022
+
+O projeto será desenvolvido seguindo três etapas:
+
+ETAPA 0 - (Identificação e definição das tecnologias que serão usadas)
+
+Definido o escopo geral do projeto, deve-se buscar inferir quais os possíveis pontos críticos a serem enfrentados durante o desenvolvimento. Uma vez identificados estes pontos o desenvolvedor deve estudar quais são as tecnologias disponíveis e quais são
+mais adequadas. Nesse ponto entra a escolha de linguagem, banco de dados e estruturas auxiliares como bibliotecas. Escolhido as tecnologias faz-se um pequeno relatório descrevendo as tecnologias, a
+razão de sua escolha e se necessário suas limitações. Esta etapa não é necessária se o projeto apresentar o mesmo ambiente de projetos anteriores, já modelados.
+
+ETAPA 1 - (Listar os objetivos)
+
+Enquanto é realizado o estudo das tecnologias o cliente tem um tempo pra amadurecer a ideia e mesmo que não tenha o escopo inteiramente decidido, a essa altura já terá alguma noção 
+de funcionalidades que o seu projeto dever´a apresentar. A partir destas ideias, descreve-se uma lista com essas funcionalidades. Com a lista pronta gradua-se a importância de cada funcionalidade no projeto.
+
+ETAPA 2 - (Desenvolvimento)
+
+A partir da lista de objetivos gerada, escolhe-se um para desenvolver. Segue-se o descrito no BPMN e os testes unitários podem ser aplicados nesta fase. Se o projeto estiver sendo desenvolvido 
+em equipe, o gerente de projeto pode dividir o objetivo em partes menores para paralelizar o processo. E caso o problema ainda se apresente muito complicado, é possível aplicar outros modelos de 
+desenvolvimento somente no objetivo corrente fazendo com que os problemas mais complicados apresentem
+maior nível de documentação.
+
+ETAPA 3 - (Verificação 	de finalização)
+
+Com o objetivo escolhido já desenvolvido e testado pelo desenvolvedor, cria-se um versão de “release”. Esta versão deve ser então testada pelo cliente e, caso esteja de acordo com o solicitado, 
+deverá validá-lo. Caso contrário o BPMN deve ser revisto e reinicializado o fluxo até o cliente validar a funcionalidade. Cabe dizer que, é nesta fase que uma possível equipe de teste deve atuar, 
+embora esta equipe seja desejável, muitas vezes os pequenos grupos de pesquisa não apresentam estetipo de recurso. Se este protótipo satisfizer as necessidades do cliente então o projeto pode ser finalizado.
+
