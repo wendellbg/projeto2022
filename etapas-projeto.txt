@@ -8,7 +8,8 @@ ETAPA 0 - (Identificação e definição das tecnologias que serão usadas)
     - HTML
     - CSS
     - JavaScript
-    - Testes Unitarios - Opcional/A definir
+    - Testes Unitarios - Jest
+    - Testes de Acessibilidade - Jest Axe
     - Bootstrap
 
   Backend:
