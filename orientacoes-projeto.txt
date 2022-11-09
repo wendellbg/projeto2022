@@ -1,6 +1,6 @@
 Modelo de Desenvolvimento de Software para o Projeto 2022
 
-O projeto será desenvolvido seguindo três etapas:
+O projeto será desenvolvido seguindo quatro etapas:
 
 ETAPA 0 - (Identificação e definição das tecnologias que serão usadas)
 
