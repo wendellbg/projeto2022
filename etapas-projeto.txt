@@ -15,5 +15,9 @@ ETAPA 0 - (Identificação e definição das tecnologias que serão usadas)
   Backend:
   - PHP
   - Framework PHP - Opcional/A definir
-  - Testes Unitarios - Opcional/A definir 
+  - Testes Unitarios - PHPUnit 
   - PostgreSQL
+
+ETAPA 1 - (Listar os objetivos)
+
+  - Cadastro e Login do usuário
