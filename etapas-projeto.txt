@@ -29,4 +29,20 @@ ETAPA 1 - (Listar os objetivos)
     - Login
       - Email
       - Password
-    - Anuncio do livro  
+    - Anuncio do livro
+      - O usuário selecionará se deseja apenas vender, trocar ou os dois.
+      - Caso o usuário selecionar a opção trocar, o anuciante poderá colocar,
+      se quiser, uma lista de livros que o anuciante quer trocar pelo livro dele.
+      - Quem trocar/comprar o livro poderá fazer uma avaliação da troca/venda com até 5 estrelas. 
+      - Informações do Livro Anunciado:
+        - Imagens do livro
+        - Preço (se for vender)
+        - Nome do Livro,
+        - Tempo de uso
+        - Sinopse do Livro
+        - Lista de Livros que Deseja Trocar (se o anuciante quiser trocar e se ele deseja criar essa lista)
+    - Informações do Usuário:
+      - Todas as listadas do Cadastro
+      - Avaliações das pessoas que trocaram/compraram livros do usuário.
+      - Lista de livros ja anunciados.
+      - Avaliações ja realizadas.
