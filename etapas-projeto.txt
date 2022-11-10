@@ -34,10 +34,11 @@ ETAPA 1 - (Listar os objetivos)
       - Caso o usuário selecionar a opção trocar, o anuciante poderá colocar,
       se quiser, uma lista de livros que o anuciante quer trocar pelo livro dele.
       - Informações do anuncio:
+        - Será colocado automaticamente o contato do anuciante no anuncio (email e celular). 
         - Todas já listadas em *Livros*
         - Lista de Livros que Deseja Trocar (se o anuciante quiser trocar e se ele deseja criar essa lista)
       - Quem trocar/comprar o livro poderá fazer uma avaliação da troca/venda com até 5 estrelas. 
-      - Informações do Usuário:
+    - Informações do Usuário:
       - Todas as listadas do Cadastro
       - Avaliações das pessoas que trocaram/compraram livros do usuário.
       - Lista de livros ja anunciados.
