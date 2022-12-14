@@ -1,0 +1,19 @@
+header {
+  height: 10%;
+  width: 100%;
+}
+main {
+  height: 90%;
+  width: 100%;
+}
+
+main .centerContent {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+main .centerContent .imgLandingPage {
+  height: 40%;
+  width: 100%;
+}

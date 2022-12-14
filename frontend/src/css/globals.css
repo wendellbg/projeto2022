@@ -3,7 +3,19 @@
   margin: 0;
 }
 
-html body {
-  background: #4d5061;
+html,
+body {
+  background: #5c80bc;
+  width: 100%;
+  height: 100%;
   font-family: Roboto, "Arial";
+}
+
+.yellowTitle {
+  font-weight: 700;
+  color: #e7e247;
+}
+.whiteTitle {
+  font-weight: 700;
+  color: #e9edde;
 }
